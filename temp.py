@@ -3,6 +3,12 @@
 Spyder Editor
 
 This is a temporary script file.
+
+Tiz tiene un pito
+Pichi es gay
+Leonardo es putaku y furro
+Miguel es lo mejor
+Tomy es tierno
 """
 
 # p a c k a g e i m p o r t s
